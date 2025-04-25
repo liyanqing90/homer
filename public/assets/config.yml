@@ -209,3 +209,121 @@ services:
         subtitle: "Dashboard icons"
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
+  - links:
+    # starspark.xyz 记录
+    - name: "nas.starspark.xyz"
+      url: "http://nas.starspark.xyz" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "*.starspark.xyz"
+      url: "http://starspark.xyz" # 泛解析，通常指向主域名
+      target: "_blank"
+  
+    - name: "starspark.xyz"
+      url: "http://starspark.xyz"
+      target: "_blank"
+  
+    - name: "mcp.starspark.xyz"
+      url: "http://mcp.starspark.xyz" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "tools.starspark.xyz"
+      url: "http://tools.starspark.xyz" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "www.starspark.xyz"
+      url: "http://www.starspark.xyz" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    # tangyuan.fun 记录
+    - name: "grok.tangyuan.fun"
+      url: "http://grok.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "vpn.tangyuan.fun"
+      url: "http://vpn.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "www.tangyuan.fun"
+      url: "http://www.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "nas.tangyuan.fun"
+      url: "http://nas.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "ai.tangyuan.fun"
+      url: "http://ai.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "blog.tangyuan.fun"
+      url: "http://blog.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "chat.tangyuan.fun"
+      url: "http://chat.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "deeplx.tangyuan.fun"
+      url: "http://deeplx.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "dpanel.tangyuan.fun"
+      url: "http://dpanel.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "gemini.tangyuan.fun"
+      url: "http://gemini.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "google-chat.tangyuan.fun"
+      url: "http://google-chat.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "json.tangyuan.fun"
+      url: "http://json.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "lobe.tangyuan.fun"
+      url: "http://lobe.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "md.tangyuan.fun"
+      url: "http://md.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "newchat.tangyuan.fun"
+      url: "http://newchat.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "news.tangyuan.fun"
+      url: "http://news.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "ql.tangyuan.fun"
+      url: "http://ql.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "r2.tangyuan.fun"
+      url: "http://r2.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "short.tangyuan.fun"
+      url: "http://short.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "tv.tangyuan.fun"
+      url: "http://tv.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "webdav.tangyuan.fun"
+      url: "http://webdav.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    - name: "wx.tangyuan.fun"
+      url: "http://wx.tangyuan.fun" # 使用 http 或 https，根据实际情况调整
+      target: "_blank"
+  
+    # _acme-challenge 记录通常用于 ACME 证书验证，不适合作为普通链接展示，故未包含。
+
+
